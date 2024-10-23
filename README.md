@@ -11,5 +11,5 @@ To Design and Analyze CMOS Inverter using sky130nm pdk and various open source t
 I have referred below shell script by @Rajdeep to install the necessary tools required for the Inverter Analysis.
 https://github.com/rajdeep66/edaBundle_whyRD
 Above repositry has two script namely install_OpePDK.sh and whyrd_eda_bundle.sh
-Use **install_OpePDK.sh**
+Use install_OpePDK.sh
 
