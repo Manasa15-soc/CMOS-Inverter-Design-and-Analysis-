@@ -21,3 +21,4 @@ Use whyrd_eda_bundle.sh to install below tools in one go:
 
 Use install_OpePDK.sh to download and setup PDK.
 
+## Step 2
