@@ -1,5 +1,5 @@
 # CMOS-Inverter-Design-and-Analysis
-To Design and Analyze CMOS Inverter using sky130nm pdk and various open source tools.
+To Design and Analyze CMOS Inverter using sky130nm pdk and various open source tools. 
 ## Required Tools
 1. Opencircuitdesign: http://opencircuitdesign.com/
 2. Xshem: https://xschem.sourceforge.io/stefan/index.html
@@ -8,5 +8,6 @@ To Design and Analyze CMOS Inverter using sky130nm pdk and various open source t
 5. Sky130nm: https://skywater-pdk.readthedocs.io/en/main/
 ## Step 1
 ## Tools Setup
-I have referred below shell script to dowb
+I have referred below shell script by @Rajdeep to install the necessary tools required for the Inverter Analysis.
+https://github.com/rajdeep66/edaBundle_whyRD
 
